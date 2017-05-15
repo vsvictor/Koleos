@@ -1,15 +1,13 @@
 apply plugin: 'com.android.application'
 android {
     compileSdkVersion 25
-    buildToolsVersion "25.0.0"
+    buildToolsVersion "25.0.3"
 
     defaultConfig {
         applicationId "com.rev.quic"
-        minSdkVersion 14
+        minSdkVersion 17
         targetSdkVersion 25
-
-        testApplicationId "com.rev.quic.tests"
-        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+        multiDexEnabled true
     }
 
     buildTypes {
@@ -22,11 +20,8 @@ android {
 
 dependencies {
     compile files('libs/cronet_api.jar')
-    compile files('libs/cronet_api-src.jar')
     compile files('libs/cronet_impl_common_java.jar')
-    compile files('libs/cronet_impl_common_java-src.jar')
+    compile files('libs/cronet_impl_native_java.jar')
     compile files('libs/cronet_impl_platform_java.jar')
-    compile files('libs/cronet_impl_platform_java-src.jar')
-    compile files('libs/cronet-sample-src.jar')
     compile 'com.android.support:appcompat-v7:25.1.0'
 }

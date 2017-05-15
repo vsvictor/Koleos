@@ -1,4 +1,7 @@
-#Wed Jan 25 16:15:30 EET 2017
-base.0=/home/victor/quic_req/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/home/victor/quic_req/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+#Mon May 15 21:34:36 EEST 2017
+base.0=/home/victor/Koleos/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8b2db5bfcc11aa1b0aa6b36201682427eb41c7ba
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/victor/Koleos/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7dd72174e8c3feb9b140ba7358575d0c5d825550/classes.dex
+base.1=/home/victor/Koleos/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7dd72174e8c3feb9b140ba7358575d0c5d825550
+file.0=/home/victor/Koleos/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8b2db5bfcc11aa1b0aa6b36201682427eb41c7ba/classes.dex

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cronet_api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/cronet_api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

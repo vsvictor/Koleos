@@ -1,73 +1,81 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:3:1-22:12
+ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:4:5-28
-		INJECTED from /home/victor/quic_req/app/src/main/AndroidManifest.xml
-		INJECTED from /home/victor/quic_req/app/src/main/AndroidManifest.xml
+		ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/victor/Koleos/app/src/main/AndroidManifest.xml
+		INJECTED from /home/victor/Koleos/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:3:11-69
+		ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:6:5-74
-MERGED from [com.android.support:appcompat-v7:25.1.0] /home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.1.0] /home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.0] /home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.0] /home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.0] /home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.0] /home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.1.0] /home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:5:5-74
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/victor/.android/build-cache/d2cb0a57e26852b1180bc55aa6231051f377fc8e/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] /home/victor/.android/build-cache/460a280f55af9308480a135010344a613c82d9d5/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/victor/.android/build-cache/f8be7b3c88a6bc161a1b69c182ac603710d842a7/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/victor/.android/build-cache/35b7447634b9d6cd68aefb81bea610ad0d8049f5/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/victor/.android/build-cache/f9c0c53d003f779bceb44a9b7dd0b93ad62dc2b6/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/victor/.android/build-cache/a396d0293111d5ed6d08a67495da76e0edef4758/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/victor/.android/build-cache/114f357be9b79443eafccbd2c4420df4735cb319/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/victor/.android/build-cache/583c9a52b29e870b0ae3b65578be0fe2837e7615/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] /home/victor/.android/build-cache/c95b589838eb31aa2f653ca0044134bcf1c5008c/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.1.0] /home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /home/victor/.android/build-cache/d2cb0a57e26852b1180bc55aa6231051f377fc8e/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:6:42-71
-		INJECTED from /home/victor/quic_req/app/src/main/AndroidManifest.xml
-		INJECTED from /home/victor/quic_req/app/src/main/AndroidManifest.xml
+		ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:5:42-71
+		INJECTED from /home/victor/Koleos/app/src/main/AndroidManifest.xml
+		INJECTED from /home/victor/Koleos/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:6:15-41
-		INJECTED from /home/victor/quic_req/app/src/main/AndroidManifest.xml
-		INJECTED from /home/victor/quic_req/app/src/main/AndroidManifest.xml
+		ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:5:15-41
+		INJECTED from /home/victor/Koleos/app/src/main/AndroidManifest.xml
+		INJECTED from /home/victor/Koleos/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:7:5-66
+ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:6:5-66
 	android:name
-		ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:7:22-64
+		ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:8:5-78
+ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:7:5-78
 	android:name
-		ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:8:22-76
+		ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:9:22-77
 application
-ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:9:5-21:19
-MERGED from [com.android.support:appcompat-v7:25.1.0] /home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.1.0] /home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.0] /home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.0] /home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.0] /home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.0] /home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.1.0] /home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:11:5-25:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/victor/.android/build-cache/d2cb0a57e26852b1180bc55aa6231051f377fc8e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/victor/.android/build-cache/460a280f55af9308480a135010344a613c82d9d5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/victor/.android/build-cache/f8be7b3c88a6bc161a1b69c182ac603710d842a7/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/victor/.android/build-cache/35b7447634b9d6cd68aefb81bea610ad0d8049f5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/victor/.android/build-cache/f9c0c53d003f779bceb44a9b7dd0b93ad62dc2b6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/victor/.android/build-cache/a396d0293111d5ed6d08a67495da76e0edef4758/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/victor/.android/build-cache/114f357be9b79443eafccbd2c4420df4735cb319/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/victor/.android/build-cache/583c9a52b29e870b0ae3b65578be0fe2837e7615/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/victor/.android/build-cache/c95b589838eb31aa2f653ca0044134bcf1c5008c/output/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:10:13-37
+		ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:11:18-42
 activity#com.rev.quic.MainActivity
-ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:11:9-20:20
+ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:15:9-24:20
 	android:hardwareAccelerated
-		ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:15:19-53
+		ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:19:19-53
 	android:launchMode
-		ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:12:19-50
+		ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:16:19-50
 	android:configChanges
-		ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:14:19-89
+		ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:18:19-89
 	android:theme
-		ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:13:19-63
+		ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:17:19-63
 	android:name
-		ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:11:19-59
+		ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:15:19-59
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:16:13-19:29
+ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:20:13-23:29
 action#android.intent.action.MAIN
-ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:17:17-68
+ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:21:17-68
 	android:name
-		ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:17:25-66
+		ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:18:17-76
+ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:22:17-76
 	android:name
-		ADDED from /home/victor/quic_req/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /home/victor/Koleos/app/src/main/AndroidManifest.xml:22:27-74

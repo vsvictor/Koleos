@@ -1,50 +1,26 @@
 [
     {
-        "merged": "/home/victor/cronet_example/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/home/victor/cronet_example/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v11/notification_template_big_media_narrow.xml"
+        "merged": "/home/victor/Koleos/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/victor/.android/build-cache/d2cb0a57e26852b1180bc55aa6231051f377fc8e/output/res/layout-v11/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/home/victor/cronet_example/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
-        "source": "/home/victor/cronet_example/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v11/notification_media_action.xml"
+        "merged": "/home/victor/Koleos/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/victor/.android/build-cache/d2cb0a57e26852b1180bc55aa6231051f377fc8e/output/res/layout-v11/notification_media_action.xml"
     },
     {
-        "merged": "/home/victor/cronet_example/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/home/victor/cronet_example/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v11/notification_template_big_media_custom.xml"
+        "merged": "/home/victor/Koleos/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/victor/.android/build-cache/d2cb0a57e26852b1180bc55aa6231051f377fc8e/output/res/layout-v11/notification_template_big_media.xml"
     },
     {
-        "merged": "/home/victor/cronet_example/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/home/victor/cronet_example/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v11/notification_media_cancel_action.xml"
+        "merged": "/home/victor/Koleos/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/victor/.android/build-cache/d2cb0a57e26852b1180bc55aa6231051f377fc8e/output/res/layout-v11/notification_media_cancel_action.xml"
     },
     {
-        "merged": "/home/victor/cronet_example/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/home/victor/cronet_example/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v11/notification_template_big_media.xml"
+        "merged": "/home/victor/Koleos/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/victor/.android/build-cache/d2cb0a57e26852b1180bc55aa6231051f377fc8e/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/home/victor/cronet_example/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/home/victor/cronet_example/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v11/notification_template_big_media_narrow_custom.xml"
-    },
-    {
-        "merged": "/home/victor/quic_req/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v11/notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "/home/victor/quic_req/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v11/notification_template_big_media.xml"
-    },
-    {
-        "merged": "/home/victor/quic_req/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v11/notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "/home/victor/quic_req/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v11/notification_template_big_media_narrow_custom.xml"
-    },
-    {
-        "merged": "/home/victor/quic_req/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v11/notification_template_big_media_custom.xml"
-    },
-    {
-        "merged": "/home/victor/quic_req/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
-        "source": "/home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v11/notification_media_action.xml"
+        "merged": "/home/victor/Koleos/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/victor/.android/build-cache/d2cb0a57e26852b1180bc55aa6231051f377fc8e/output/res/layout-v11/notification_template_big_media_custom.xml"
     }
 ]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/victor/Koleos/app/build/intermediates/res/merged/debug/raw/bundle.crt",
+        "source": "/home/victor/Koleos/app/src/main/res/raw/bundle.crt"
+    },
+    {
+        "merged": "/home/victor/Koleos/app/build/intermediates/res/merged/debug/raw/ca.crt",
+        "source": "/home/victor/Koleos/app/src/main/res/raw/ca.crt"
+    }
+]

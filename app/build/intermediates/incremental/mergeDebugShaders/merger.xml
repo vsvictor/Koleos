@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/victor/quic_req/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/victor/quic_req/app/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/victor/Koleos/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/victor/Koleos/app/src/debug/shaders"/></dataSet></merger>

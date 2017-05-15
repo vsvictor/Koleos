@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/victor/quic_req/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
+        "outputFile": "/home/victor/Koleos/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,31 +11,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "/home/victor/quic_req/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-v13/values-v13.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 58,
-                        "endOffset": 109
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/home/victor/cronet_example/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 58,
-                    "endOffset": 109
-                },
-                "from": {
-                    "file": "/home/victor/cronet_example/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-v13/values-v13.xml",
+                    "file": "/home/victor/.android/build-cache/d2cb0a57e26852b1180bc55aa6231051f377fc8e/output/res/values-v13/values-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
